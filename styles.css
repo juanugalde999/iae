@@ -1,0 +1,53 @@
+body{
+	color: green;
+	background: white;
+}
+
+
+
+h1
+{ width: 150px
+	color black
+	font-weight 150px;
+
+
+
+}
+
+
+
+
+#banner{
+  text-align: center;
+  background-image: url("https://unsplash.it/1300/600?random");
+  background-size: cover;
+  padding: 50px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+  width: 100vw;
+  height: 50vh;
+}
+
+
+#footer{
+  padding: 30px;
+  background-color: black;
+  color: white;
+  font-size:20px;
+}
+
+#footer a {
+  padding: 5px;
+  background-color: black;
+  color: white;
+}
+
+#footer a:hover {
+  color: gray;
+}
+
+.card{
+  padding: 50px;
+  font-weight: lighter;
+}
+
